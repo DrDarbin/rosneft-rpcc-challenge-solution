@@ -1,7 +1,7 @@
 # Top 40% solution for Rosneft Proppant Check Challenge
 ## [Rosneft Proppant Check Challenge](https://boosters.pro/championship/RPCC/overview)
 
-[Rating (Loft)](https://boosters.pro/championship/RPCC/rating)
+[Rating (Loft #61)](https://boosters.pro/championship/RPCC/rating)
 
 **Описание**
 
